@@ -145,7 +145,7 @@ const (
 	PROJECT_ID = "around-220820"
 	BT_INSTANCE = "around-post"
 	// Needs to update this URL if you deploy it to cloud.
-	ES_URL = "http://35.237.178.59:9200"
+	ES_URL = "http://35.238.157.209:9200"
 
 )
 /*
